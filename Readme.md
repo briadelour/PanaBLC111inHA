@@ -1,4 +1,4 @@
-# Panasonic BL-111 configuration in Home Assistant
+# Panasonic BL-C111A configuration in Home Assistant
 Breathe new lift into an old network camera from ~2008.  
 <img width="498" height="284" alt="image" src="https://github.com/user-attachments/assets/672c34c6-69ec-4c57-b95a-40e1b44e7fbe" />
 
