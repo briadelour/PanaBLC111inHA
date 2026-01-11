@@ -1,4 +1,4 @@
-#Panasonic BL-111 configuration in Home Assistant
+# Panasonic BL-111 configuration in Home Assistant
 Breathe new lift into an old network camera from ~2008.  
 
 ## Steps to add camera to HA
