@@ -1,5 +1,6 @@
 # Panasonic BL-111 configuration in Home Assistant
 Breathe new lift into an old network camera from ~2008.  
+<img width="498" height="284" alt="image" src="https://github.com/user-attachments/assets/672c34c6-69ec-4c57-b95a-40e1b44e7fbe" />
 
 ## Steps to add camera to HA
 - Add MJPEG IP Camera using MJPEG URL: http://192.168.xx.yy/nphMotionJpeg?Resolution=320x240&Quality=Clarity
