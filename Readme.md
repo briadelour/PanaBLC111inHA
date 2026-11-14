@@ -1,4 +1,7 @@
 # Panasonic BL-C111A configuration in Home Assistant
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-donate-yellow?logo=buymeacoffee&logoColor=white)](https://buymeacoffee.com/briadelour)
+[![PayPal](https://img.shields.io/badge/PayPal-donate-blue?logo=paypal&logoColor=white)](https://www.paypal.com/paypalme/bdeloureiro)
+
 Breathe new life into an old network camera from ~2008.  
 <img width="498" height="284" alt="image" src="https://github.com/user-attachments/assets/672c34c6-69ec-4c57-b95a-40e1b44e7fbe" />
 
